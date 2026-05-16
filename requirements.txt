@@ -2,3 +2,4 @@ joblib
 pandas
 streamlit
 pyngrok
+scikit-learn
